@@ -1,0 +1,31 @@
+body {
+    background-color :cadetblue;
+    text-align: center;
+  }
+  h1 {
+  display: block;
+  font-size: 6em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color :brown;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  p{
+   display: block;
+   font-size: 3em;
+   color :darkred;
+   text-align: center;
+   font-weight: 300;
+
+  }
+  button{
+    background-color: darksalmon;
+    color: blueviolet;
+    font-size :38px;
+    padding-top: 0%;
+    margin-top: 100px;
+    margin-left:60px 
+  }
